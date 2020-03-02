@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ItsMagic",
+			"Path": "C:\\Users\\Jon\\Desktop\\ItsMagic\\ItsMagic\\Source\\ItsMagic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ItsMagicEditor",
+			"Path": "C:\\Users\\Jon\\Desktop\\ItsMagic\\ItsMagic\\Source\\ItsMagicEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

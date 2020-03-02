@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ItsMagic.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0F7E71AB-7BEF-43E6-93ED-B3656486CB04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ItsMagic.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ItsMagicEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{30384EA7-57C7-4355-9DB2-5D31CACD0BA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ItsMagic">
+      <UniqueIdentifier>{F99025A3-5C28-47A8-A752-0D6804B343E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ItsMagic\ItsMagic.Build.cs">
+      <Filter>Source\ItsMagic</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ItsMagic\ItsMagic.cpp">
+      <Filter>Source\ItsMagic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ItsMagic\ItsMagic.h">
+      <Filter>Source\ItsMagic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ItsMagic\ItsMagicCharacter.cpp">
+      <Filter>Source\ItsMagic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ItsMagic\ItsMagicCharacter.h">
+      <Filter>Source\ItsMagic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ItsMagic\ItsMagicGameMode.cpp">
+      <Filter>Source\ItsMagic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ItsMagic\ItsMagicGameMode.h">
+      <Filter>Source\ItsMagic</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
